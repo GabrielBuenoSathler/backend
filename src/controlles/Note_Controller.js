@@ -86,5 +86,6 @@ class Notes_Controller{
     
     return response.json({notesWithTags});
     }
+    
 }
 module.exports = Notes_Controller;
